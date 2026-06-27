@@ -14,7 +14,8 @@ https://drive.google.com/drive/folders/1kqDWxACssWUNTHaK3vKUWtAcftrfNo2L
 https://linear-regression-eight.vercel.app/
 
 --------------------------------------------------------------------------------------------------------------------------------------------
- وده واحد كلعبه عادي ل classification(logistic regression)
+ - وده واحد كلعبه عادي ل 
+ * lassification(logistic regression)
 https://logisic-regression.vercel.app/
 --------------------------------------------------------------------------------------------------------------------------------------------
 - وديه كويزات كنت عملتها علي السيشنز كلها هتبقى حلوه جدا ف التطبيق
